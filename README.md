@@ -282,8 +282,6 @@ LLM-FINAL-PROJECT/
     └── pdf_reader.py
 ```
 
-GitHub：<https://github.com/vv-chang/Course-Final-Project.git>
-
 ---
 
 ## 結論
